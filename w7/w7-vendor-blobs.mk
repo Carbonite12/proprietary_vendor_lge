@@ -89,6 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/lib/libvss_common_core.so:system/lib/libvss_common_core.so \
     vendor/lge/w7/proprietary/lib/libvss_nv_core.so:system/lib/libvss_nv_core.so \
     vendor/lge/w7/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/lge/w7/proprietary/lib/libbinder.so:system/lib/libbinder.so \
     vendor/lge/w7/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/w7/proprietary/bin/rild:system/bin/rild \
     vendor/lge/w7/proprietary/bin/rmt_storage:system/bin/rmt_storage \
@@ -221,6 +222,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/w7/proprietary/lib/hw/lights.msm8226.so:system/lib/hw/lights.msm8226.so \
     vendor/lge/w7/proprietary/vendor/lib/libbmc050.so:system/vendor/lib/libbmc050.so \
+    vendor/lge/w7/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/w7/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/lge/w7/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
     vendor/lge/w7/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
