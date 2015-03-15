@@ -116,14 +116,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/w7/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/lge/w7/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/lge/w7/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
-    vendor/lge/w7/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
     vendor/lge/w7/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/lge/w7/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/lge/w7/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
-    vendor/lge/w7/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
     vendor/lge/w7/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/lge/w7/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/lge/w7/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
+    vendor/lge/w7/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/lge/w7/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/lge/w7/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/lge/w7/proprietary/bin/bdaddr_loader:system/bin/bdaddr_loader \
